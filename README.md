@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://github-readme-stats.vercel.app/api?username=NextAlone&icon_color=CE1D2D&show_icons=true&theme=light&text_color=718096&hide_title=true)](https://github-readme-stats.vercel.app/api?username=NextAlone&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextAlone&hide=xml)](https://github-readme-stats.vercel.app/api/top-langs/?username=NextAlone&hide=xml)[![NextAlone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NextAlone)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=NextAlone&icon_color=CE1D2D&show_icons=true&theme=light&text_color=718096&hide_title=true)](https://github-readme-stats.vercel.app/api?username=NextAlone&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextAlone&hide=xml)](https://github-readme-stats.vercel.app/api/top-langs/?username=NextAlone&hide=xml)
+
+[![NextAlone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NextAlone)](https://github.com/anuraghazra/github-readme-stats)
