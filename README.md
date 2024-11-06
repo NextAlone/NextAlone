@@ -6,6 +6,7 @@
 **Language I Use**  
 ![Python](https://img.shields.io/static/v1?style=flat&labelColor=555555&color=95961B&logo=python&label=&message=Python) ![Java](https://img.shields.io/static/v1?style=flat&labelColor=555555&color=95961B&logo=Oracle&label=&message=Java) ![Kotlin](https://img.shields.io/static/v1?style=flat&labelColor=555555&color=95961B&logo=kotlin&label=&message=Kotlin) ![C](https://img.shields.io/static/v1?style=flat&labelColor=555555&color=95961B&logo=c&label=&message=C%2FC%2B%2B) ![Markdown](https://img.shields.io/static/v1?style=flat&labelColor=555555&color=95961B&logo=Markdown&label=&message=Markdown)
 
-[![zmh-program's Github Stats](https://stats.deeptrain.net/user/nextalone/)](https://github.com/nextalone/code-statistic)
 ![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=NextAlone&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NextAlone" />
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nextalone&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
