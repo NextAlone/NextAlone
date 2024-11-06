@@ -8,5 +8,5 @@
 
 ![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=NextAlone&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nextalone&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nextalone"
 />
